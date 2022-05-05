@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "697627507945",
+    "firebase_url": "https://nba-project-146c0-default-rtdb.firebaseio.com",
+    "project_id": "nba-project-146c0",
+    "storage_bucket": "nba-project-146c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697627507945:android:059e40694b08397d880478",
+        "android_client_info": {
+          "package_name": "com.example.nba_team"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697627507945-bbgc48cnd62dbmo6mthte8009f0e8j5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlr3ZBwqd8fEKG1_fKYPte8QgnW6EVXtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697627507945-bbgc48cnd62dbmo6mthte8009f0e8j5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
